@@ -1,0 +1,5 @@
+.env should be filled with variables like:
+MYSQL_ROOT_PASSWORD=rootpass
+MYSQL_DATABASE=testdb
+MYSQL_USER=testuser
+MYSQL_PASSWORD=testpass
